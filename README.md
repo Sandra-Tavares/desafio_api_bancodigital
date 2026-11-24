@@ -1,3 +1,11 @@
+# Banco digital — Desafio de API
+
+## Objetivo e conhecimentos praticados
+
+Projeto educacional baseado no desafio de API bancária da Cubos. O material especifica operações de contas e transações, validação de CPF e e-mail únicos, respostas HTTP e armazenamento em memória. A implementação e os testes não foram verificados.
+
+## Material original
+
 ![](https://i.imgur.com/xG74tOh.png)
 
 # Desafio Módulo 2 - Back-end
